@@ -1,0 +1,2 @@
+在根目录终端下运行npm install 
+之后运行webpack命令打包

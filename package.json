@@ -1,0 +1,28 @@
+{
+  "name": "zhihu",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "webpack; node server/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "opener": "^1.4.1",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.22",
+    "babel-loader": "^5.3.2",
+    "bower": "^1.4.1",
+    "css-loader": "^0.16.0",
+    "html-webpack-plugin": "^1.6.1",
+    "less": "^2.5.1",
+    "less-loader": "^2.2.0",
+    "raw-loader": "^0.5.1",
+    "style-loader": "^0.12.3",
+    "webpack": "^1.11.0",
+    "webpack-stream": "^2.1.0"
+  }
+}
